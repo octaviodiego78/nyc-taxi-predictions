@@ -1,0 +1,14 @@
+artifact_path: /Users/octavioperezurbina/Documents/iteso/proyecto_cd/nyc-taxi-predictions/notebooks/mlruns/2/models/m-4e422355b9d84cd29870697a27071c71/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-4e422355b9d84cd29870697a27071c71
+model_size_bytes: 99
+model_uuid: m-4e422355b9d84cd29870697a27071c71
+prompts: null
+run_id: ae3fddeb53da4aa69549e7c108bd2d99
+utc_time_created: '2025-10-17 02:23:09.703709'
