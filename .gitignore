@@ -1,2 +1,7 @@
 
 .env
+.env
+mlflow.db
+.ipynb_checkpoints/
+.venv/
+__pycache__/
